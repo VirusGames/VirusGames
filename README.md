@@ -2,7 +2,7 @@
 - 👀 I’m interested in rhythm games and danmaku
 - 🌱 I’m currently learning Unity, danmakufu and python
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: kda06spb@gmail.com, Virusgames#1387 - discord
+- 📫 How to reach me: Virusgames - discord
 
 <!---
 VirusGames/VirusGames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
